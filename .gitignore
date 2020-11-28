@@ -2,8 +2,13 @@
 .idea
 build
 
+
 gradle-wrapper.jar
 gradle-wrapper.properties
 gradlew
 gradlew.bat
 settings.gradle
+
+
+all-files-report.txt
+copied-files-report.txt
