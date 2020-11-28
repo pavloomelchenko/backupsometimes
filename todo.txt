@@ -1,0 +1,15 @@
+
+
+
+
+
+
+from folder -> to folder
+zip or not
+
+give report:
+in alphabetical order
+files that were copied,
+all files
+
+if all ok - print all ok
